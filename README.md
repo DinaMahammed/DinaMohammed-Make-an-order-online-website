@@ -1,3 +1,6 @@
+Link of the Website:
+https://demo.nopcommerce.com/
+
 Repository Structure:
 
 Identify a test scenario of Register/ Login then make an order from the website"nopCommerce"
